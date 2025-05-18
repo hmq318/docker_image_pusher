@@ -1,6 +1,7 @@
 nginx
 n8nio/n8n
 goolashe/sillytavern
+tailscale/tailscale
 zerotier/zerotier
 ionewu/owjdxb
 #支持私库
