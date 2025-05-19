@@ -1,7 +1,5 @@
 nginx
-n8nio/n8n
-goolashe/sillytavern
-mintplexlabs/anythingllm
+charlocharlie/epicgames-freegames
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
